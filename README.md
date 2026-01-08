@@ -98,3 +98,15 @@ source="ssh_logs_new.json" host="kali" sourcetype="_json" event_type="Multiple F
 ![Dashboard 3](dashboard-3.png)
 
 
+## Conclusion
+This project helped me understand how to:
+
+Parse and visualize SSH logs in Splunk
+Detect failed and suspicious login patterns
+Create dynamic dashboards using shared time filters
+
+## 🔖 Tags
+
+#Splunk #CyberSecurity #SIEM #SSH #SOC #LearningByDoing
+
+
