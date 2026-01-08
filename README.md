@@ -51,10 +51,10 @@ source="ssh_logs.json" host="kali" sourcetype="_json" event_type="Failed SSH Log
 | stats count AS "Failed Logins"
 ```
 
-### 4️⃣ Invalid User Attempts  
+### 4️⃣ Connection Without Authentication
 ```spl
-index=auth "sshd" "invalid user"
-| stats count AS "Invalid User Attempts"
+source="ssh_logs.json" host="kali" sourcetype="_json" event_type="Connection Without Authentication"
+| stats count AS "Connection Without Authentication"
 ```
 
 ---
