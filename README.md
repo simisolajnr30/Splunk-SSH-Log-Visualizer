@@ -1,4 +1,4 @@
-# Splunk-SSH-Log-Visualizer
+# Splunk-SSH-Logs-Dashboard
 
 A cybersecurity project focused on **SSH authentication analysis** using **Splunk dashboards**.  
 This lab demonstrates how to visualize successful and failed logins, detect possible brute-force attacks, and map attacker origins geographically.  
