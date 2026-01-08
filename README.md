@@ -90,3 +90,11 @@ source="ssh_logs_new.json" host="kali" sourcetype="_json" event_type="Multiple F
 ---
 
 ## 🖼 Dashboard Screenshots  
+
+![Dashboard 1](dashboard-1.png)
+
+![Dashboard 2](dashboard-2.png)
+
+![Dashboard 3](dashboard-3.png)
+
+
